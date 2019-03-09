@@ -144,3 +144,95 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* ========== INDEX.HTML STYLES ============ */
+
+.container header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 20px 0;
+}
+
+.container header nav a {
+    text-decoration: none;
+    color: #000;
+}
+
+.jumbo {
+    margin: 20px 0;
+}
+
+ .middle-content .boxes .box1 {
+    background: teal;
+}
+.middle-content .boxes .box2 {
+    background: gold;
+}
+.middle-content .boxes .box3 {
+    background: cadetblue;
+}
+.middle-content .boxes .box4 {
+    background: coral;
+}
+.middle-content .boxes .box5 {
+    background: crimson;
+}
+.middle-content .boxes .box6 {
+    background: forestgreen;
+}
+.middle-content .boxes .box7 {
+    background: darkorchid;
+}
+.middle-content .boxes .box8 {
+    background: hotpink;
+}
+.middle-content .boxes .box9 {
+    background: indigo;
+}
+.middle-content .boxes .box10 {
+    background: dodgerblue;
+}
+
+/* ================== ABOUT.HTML STYLES ============= */
+
+.about-page header nav {
+    margin-bottom: 30px;
+}
+
+.about-top-section {
+    border-bottom: 1px dashed #000;
+}
+
+.about-top-section .text-content {
+    padding: 15px;
+}
+
+.about-middle-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 5px;
+}
+
+.about-middle-section .card {
+    width: 380px;
+    border-bottom: 1px dashed #000;
+}
+
+.about-middle-section .card h2 {
+    margin: 10px 0;
+}
+
+.about-middle-section .card img {
+    margin-top: 20px;
+}
+
+.about-middle-section .card button {
+    margin: 20px 0;
+}
+
+.about-bottom-section {
+    margin: 50px 15px 35px 15px;
+}
