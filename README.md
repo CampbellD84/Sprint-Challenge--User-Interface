@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Semantic HTML is markup that has meaning.  It uses tags such as <nav>, <section>, <header>, <footer>, etc. to be specific about what the content means and how it should be displayed.
+Semantic HTML is markup that has meaning.  It uses tags such as nav, section, header, footer, etc. to be specific about what the content means and how it should be displayed.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
